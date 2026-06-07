@@ -30,7 +30,7 @@ The files are yours to edit, rename, or do whatever you want with. Light, dark, 
 
 The color palette is as consistent as possible, consisting of 3 primary colors (Red, Green, Blue), every even mix of them (Yellow, Cyan, Magenta), and every even color between them, giving a total color wheel of 12 colors.
 Of the 12 colors, there are three brightnesses available, giving a total of 36 colors.
-Then, to top it all off, White, Grey, and Black are added into the Light, Saturated, and Dark packs, respectively, for a total of 39 colors to choose from.
+Then, to top it all off, White, Grey, and Black are added into the Light, Saturated, and Dark color packs, respectively, for a total of 39 colors to choose from.
 
 
 
