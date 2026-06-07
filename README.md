@@ -15,7 +15,7 @@ Sordum has their own color palettes, which are nice, but none of them are as con
 
 ### Download Trillidium Folder Palette
 
-Download the files from this repository, then extract them and replace the files in Folder Painter located at FolderPainter/icons.
+[Download](https://github.com/TiCaLiBrO/Trillidium-Folder-Palette/releases/tag/v1.0) the files from this repository, then extract them and replace the files in Folder Painter located at FolderPainter/icons.
 FolderPainter should be located in Program Files.
 
 - Pack 1 is saturated colors.
