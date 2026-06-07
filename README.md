@@ -15,4 +15,18 @@ Sordum has their own color palettes, which are nice, but none of them are as con
 
 ### Download Trillidium Folder Palette
 
+Download FolderPainter.ini and the color packs that you want, then replace the files in the Folder Painter app that you just downloaded with the files from this repository.
+
+- Pack 1 is saturated colors.
+
+- Pack 2 is dark colors.
+
+- Pack 3 is light colors.
+
+
+
 <!-- Talk about how your color palette has 3 primary, 3 secondary, 6 tertiary colors, and three brightnesses for each one, giving 36 colors, and then three shades for a total of 39 -->
+
+
+
+
