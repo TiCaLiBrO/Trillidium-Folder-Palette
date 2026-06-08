@@ -32,6 +32,25 @@ The color palette is as consistent as possible, consisting of 3 primary colors (
 Of the 12 colors, there are three brightnesses available, giving a total of 36 colors.
 Then, to top it all off, White, Grey, and Black are added into the Light, Saturated, and Dark color packs, respectively, for a total of 39 colors to choose from.
 
+The colors provided within this color palette are divided into three packs: Dark Pack, Saturated Pack, Light Pack.
+
+The colors are:
+
+    Dark       Saturated  Light
+    ---------- ---------- ----------
+    Burgundy   Red        Rose
+    Brown      Orange     Peach
+    Hazel      Yellow     Banana
+    Olive      Lime       Chartreuse
+    Forest     Green      Honeydew
+    Spruce     Teal       Mint
+    Ocean      Cyan       Arctic
+    Indigo     Azure      Sky
+    Navy       Blue       Periwinkle
+    Grape      Purple     Lavender
+    Plum       Magenta    Orchid
+    Claret     Raspberry  Pink
+    Black      Grey       White
 
 
 
